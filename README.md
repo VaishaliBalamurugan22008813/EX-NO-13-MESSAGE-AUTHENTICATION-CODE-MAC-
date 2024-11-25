@@ -87,7 +87,7 @@ int main() {
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/ac3effe2-c069-4daf-b3b0-08a2b94f338f)
+![image](https://github.com/user-attachments/assets/a0e4569e-4dc9-4468-a36e-28f76516e067)
 
 
 ## Result:
